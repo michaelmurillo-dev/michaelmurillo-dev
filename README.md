@@ -37,22 +37,25 @@ I have academic and basic knowledge of:
 - Technical Computer Operator
 - User Experience
 ## 🌐 Languages
- - Spanish: Native
+- Spanish: Native
 - English: Intermediate
 
 ## 🌱 Currently Learning
- - SQL an No SQL
+- SQL an No SQL
 - Web development
 - Software development best practices
  
 ## 🔎 Open to Opportunities
  I am currently open to opportunities in:
  
-- IT Support
-- Service Desk
-- Technical Support
-- Cybersecurity
-- Technology Education
+IT Support
+Service Desk
+Technical Support
+Cybersecurity
+Technology Education
+Junior Web Development
+Junior Network Support
+Junior Database Support
  
 ## 📍 Location
  
