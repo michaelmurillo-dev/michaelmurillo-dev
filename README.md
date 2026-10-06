@@ -38,3 +38,21 @@ I have academic and basic knowledge of:
 - CCNA 1 and CCNA 2
 - Technical Computer Operator
 - User Experience
+## 🌐 Languages
+ 
+- Spanish: Native
+- English: Intermediate
+ 
+## 🔎 Open to Opportunities
+ 
+I am currently open to opportunities in:
+ 
+- IT Support
+- Service Desk
+- Technical Support
+- Cybersecurity
+- Technology Education
+ 
+## 📍 Location
+ 
+Liberia, Guanacaste, Costa Rica
