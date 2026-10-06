@@ -46,16 +46,16 @@ I have academic and basic knowledge of:
 - Software development best practices
  
 ## 🔎 Open to Opportunities
- I am currently open to opportunities in:
+I am currently open to opportunities in:
  
-IT Support
-Service Desk
-Technical Support
-Cybersecurity
-Technology Education
-Junior Web Development
-Junior Network Support
-Junior Database Support
+- IT Support
+- Service Desk
+- Technical Support
+- Cybersecurity
+- Technology Education
+- Junior Web Development
+- Junior Network Support
+- Junior Database Support
  
 ## 📍 Location
  
