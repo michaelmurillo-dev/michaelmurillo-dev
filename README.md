@@ -18,7 +18,6 @@ I am currently strengthening my programming skills and building personal project
 - Software installation, configuration, and support
 
 ## 💻 Programming Knowledge
-
 I have academic and basic knowledge of:
 
 - PHP
@@ -31,7 +30,6 @@ I have academic and basic knowledge of:
 - Git and GitHub
 
 ## 📚 Training and Certifications
-
 - Introduction to Cybersecurity
 - Artificial Intelligence Fundamentals
 - CompTIA IT Fundamentals
@@ -39,13 +37,16 @@ I have academic and basic knowledge of:
 - Technical Computer Operator
 - User Experience
 ## 🌐 Languages
- 
-- Spanish: Native
+ - Spanish: Native
 - English: Intermediate
+
+## 🌱 Currently Learning
+ - SQL an No SQL
+- Web development
+- Software development best practices
  
 ## 🔎 Open to Opportunities
- 
-I am currently open to opportunities in:
+ I am currently open to opportunities in:
  
 - IT Support
 - Service Desk
