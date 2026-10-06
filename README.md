@@ -6,7 +6,7 @@ I have over 10 years of professional experience in IT support, service desk oper
 
 I am currently strengthening my programming skills and building personal projects to gain practical experience in software development.
 
-## 💼 Professional Experiencehttps://github.com/michaelmurillo-dev/michaelmurillo-dev/blob/main/README.md
+## 💼 Professional Experience
 
 - IT support and service desk operations
 - Remote technical support
