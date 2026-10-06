@@ -41,7 +41,8 @@ I have academic and basic knowledge of:
 - English: Intermediate
 
 ## 🌱 Currently Learning
-- SQL an No SQL
+- Python fundamentals and automation
+- SQL and NoSQL databases
 - Web development
 - Software development best practices
  
