@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm Michael Murillo Cortés 👋
 
-<!--
-**michaelmurillo-dev/michaelmurillo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems Engineer | IT Support | Cybersecurity | Technology Educator
 
-Here are some ideas to get you started:
+I have over 10 years of professional experience in IT support, service desk operations, user training, and technology education.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently strengthening my programming skills and building personal projects to gain practical experience in software development.
+
+## 💼 Professional Experiencehttps://github.com/michaelmurillo-dev/michaelmurillo-dev/blob/main/README.md
+
+- IT support and service desk operations
+- Remote technical support
+- Hardware and software troubleshooting
+- Incident management and resolution
+- User assistance and technology training
+- Information security
+- Microsoft 365 and collaboration tools
+- Software installation, configuration, and support
+
+## 💻 Programming Knowledge
+
+I have academic and basic knowledge of:
+
+- PHP
+- HTML5
+- JavaScript
+- Java
+- Python
+- MySQL
+- SQL Server
+- Git and GitHub
+
+## 📚 Training and Certifications
+
+- Introduction to Cybersecurity
+- Artificial Intelligence Fundamentals
+- CompTIA IT Fundamentals
+- CCNA 1 and CCNA 2
+- Technical Computer Operator
+- User Experience
